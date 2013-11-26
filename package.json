@@ -1,0 +1,13 @@
+{
+  "name": "loganov-torrent",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "coffee-script": "1.6.3",
+    "underscore": "1.5.2",
+    "sax": "*"
+  }
+}

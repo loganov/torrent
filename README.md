@@ -3,4 +3,4 @@ torrent
 
 RSS to Transmission /watcher dir, in two parts
 
-This is a ^super script.
+This is a <sup>super</sup> script.
